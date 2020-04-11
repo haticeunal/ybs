@@ -6,3 +6,4 @@ scanf("%d,&a);
 printf("Girdiğiniz Sayi :%d,a);
 return 0;
 }}
+printf("ben batu")
